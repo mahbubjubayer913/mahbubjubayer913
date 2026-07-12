@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1200&auto=format&fit=crop" alt="AI and Data Science Banner" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" />
+  <img src="https://github.com/mahbubjubayer913/mahbubjubayer913/blob/main/linkedin_banner.png?raw=true?q=80&w=1200&auto=format&fit=crop" alt="AI and Data Science Banner" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Jubayer Alam</h1>
@@ -102,7 +102,7 @@ I am a passionate IT enthusiast and data professional dedicated to leveraging da
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubjubayer913&theme=radical&hide_border=false&v=1" alt="mahbubjubayer913's GitHub streak" height="192"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahbubjubayer913&show_icons=true&locale=en&theme=radical&v=1" alt="mahbubjubayer913's GitHub stats" height="192"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubjubayer913&show_icons=true&locale=en&layout=compact&theme=radical&v=1" alt="mahbubjubayer913's Top Languages" height="192"/>
-</p>
+</p> -->
