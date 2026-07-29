@@ -99,7 +99,7 @@ I am a passionate IT enthusiast and data professional dedicated to leveraging da
 ## 📈 GitHub Statistics
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mahbubjubayer913&theme=soft-green&hide_border=true&hide_current_streak=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubjubayer913&theme=soft-green&hide_border=true&hide_current_streak=true" alt="GitHub Streak" /></a>
 </p>
 
 <!-- <p align="center">
